@@ -1,1 +1,16 @@
 
+Bug ID: BUG-001
+Title: Login error message overlaps UI
+Steps:
+1. Enter invalid password
+2. Click login
+
+Expected:
+Clear error message displayed
+
+Actual:
+Error overlaps login button
+
+Severity: Medium
+Priority: P2
+Environment: Chrome
